@@ -1,0 +1,18 @@
+PTS REB A MODEL
+
+opponent def ranking
+opponent def ranking vs primary pos
+opponent def ranking vs secondary pos (if applicable)
+opponent def ranking vs third pos (if applicable)
+avg. ppg in season
+avg. rpg in season
+avg. apg in season
+avg. ppg in past 5 seasons
+avg. rpg in past 5 seasons
+avg. apg in past 5 seasons
+avg. ppg in past 5 seasons vs opp
+avg. rpg in past 5 seasons vs opp
+avg. apg in past 5 seasons vs opp
+avg. ppg in season vs opp
+avg. rpg in season vs opp
+avg. apg in season vs opp
